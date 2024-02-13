@@ -3,7 +3,7 @@
 **JavaScript:**
 
 - **Core Concepts:**
-    - [ ] Data types (primitives, objects, arrays)
+    - [x] Data types (primitives, objects, arrays)
     - [ ] Variables and operators
     - [ ] Control flow (conditionals, loops)
     - [ ] Functions
