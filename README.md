@@ -3,12 +3,12 @@
 **JavaScript:**
 
 - **Core Concepts:**
-    [ ] Data types (primitives, objects, arrays)
-    [ ] Variables and operators
-    [ ] Control flow (conditionals, loops)
-    [ ] Functions
-    [ ] Asynchronous programming with promises or async/await
-    [ ] DOM manipulation (for basic understanding)
+    - [ ] Data types (primitives, objects, arrays)
+    - [ ] Variables and operators
+    - [ ] Control flow (conditionals, loops)
+    - [ ] Functions
+    - [ ] Asynchronous programming with promises or async/await
+    - [ ] DOM manipulation (for basic understanding)
  - **Practice:**
     - CodePen or similar platforms for bite-sized challenges
     - Beginner-friendly projects like interactive elements or small games
@@ -16,10 +16,10 @@
 **React:**
 
 - **Basics:**
-    [ ] Components (functional and class-based)
-    [ ] Props and state
-    [ ] JSX syntax
-    [ ] Hooks (useMemo, useState, useEffect for starters)
+    - [ ] Components (functional and class-based)
+    - [ ] Props and state
+    - [ ] JSX syntax
+    - [ ] Hooks (useMemo, useState, useEffect for starters)
 - **Practice:**
     - Build simple React apps using popular tutorials (freeCodeCamp, React official docs)
     - Clone existing websites using React to apply concepts
