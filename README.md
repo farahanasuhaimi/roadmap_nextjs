@@ -4,9 +4,9 @@
 
 - **Core Concepts:**
     - [x] Data types (primitives, objects, arrays)
-    - [ ] Variables and operators
-    - [ ] Control flow (conditionals, loops)
-    - [ ] Functions
+    - [x] Variables and operators
+    - [x] Control flow (conditionals, loops)
+    - [x] Functions
     - [ ] Asynchronous programming with promises or async/await
     - [ ] DOM manipulation (for basic understanding)
  - **Practice:**
